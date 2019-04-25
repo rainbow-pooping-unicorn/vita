@@ -1,0 +1,23 @@
+.footer {
+  color: $secondary-text-color;
+  position: relative;
+  opacity: 0.8;
+  font-style: normal;
+  font-size: 1.4rem;
+  padding: 3rem 0;
+  text-align: center;
+
+  &::before {
+    content: '';
+    display: block;
+    background-color: $decent-color;
+    width: 100vw;
+    height: 100%;
+    z-index: -1;
+    position: absolute;
+    left: -50vw;
+    top: 0;
+    margin-left: 50%;
+    opacity: 0.25;
+  }
+}

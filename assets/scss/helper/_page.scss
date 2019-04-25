@@ -1,0 +1,77 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  background-color: $page-bg-color;
+  margin: auto;
+  color: $primary-text-color;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+}
+
+#app {
+  width: 90%;
+  max-width: $page-width;
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+
+  @include respond-to(tablet) {
+    width: 85%;
+  }
+}
+
+// vue page transitions
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  transition: opacity 0.5s;
+}
+
+.fade-leave {
+  opacity: 0;
+}
+
+.fade-leave-active {
+  transition: opacity 0s;
+}
+
+.fade-leave-to {
+  opacity: 0;
+}
+
+// main section
+.main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 3rem 0;
+
+  @include respond-to(tablet) {
+    padding-top: 5rem;
+  }
+
+  .nav {
+    order: -1;
+  }
+
+  .intro {
+    flex-grow: 1;
+    align-self: flex-start;
+    flex-direction: column;
+    display: flex;
+    justify-content: flex-end;
+
+    + .nav {
+      order: 1;
+      flex-grow: 1;
+    }
+  }
+}

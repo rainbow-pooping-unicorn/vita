@@ -1,0 +1,14 @@
+h1 {
+  margin: 0 auto;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+  font-size: 4.6rem;
+
+  @include respond-to(tablet) {
+    font-size: 6.5rem;
+  }
+}
+
+strong {
+  font-weight: 500;
+}

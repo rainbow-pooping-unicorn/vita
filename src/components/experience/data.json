@@ -1,0 +1,42 @@
+[
+  {
+    "EMPHASIZE_TITLE": "SinnerSchrader GmbH, ",
+    "TITLE": "Hamburg/München — Frontend Developer",
+    "SMALL": "Juli 2016 - heute",
+    "LIST": [
+      "Rebrush einer bestehenden Webseite<br>(HTML/CSS/LESS/Bootstrap)<br><strong>Beispiel:</strong> <a href=\"https://strellson.com/de/de/\" class=\"link\" target=\"_blank\">Strellson</a>",
+      "Support für Bestandssystem einer Retail-/Onlinesales-Plattform für BMW UK<br>(Angular 1.5/HTML/CSS)",
+      "Erstellung und Erweiterung von Design-Systemen (Patternlab und eigene firmeninterne Entwicklung), kleine Javascript-Funktionen, Barrierefreie Umsetzung des Markups, Dokumentation<br>(HTML/Pug/ CSS/SASS/JQuery/ Javascript/Vue.js)<br><strong>Beispiele:</strong> Allianz, Telefonica",
+      "Technisches Projektmanagement, technischer Frontend-Lead & Beratung des Kunden (Telefonica), Aufwandsschätzungen, technischer Ansprechpartner im Team",
+      "Arbeit im Fun-Committee (Feel-Good Management, Planung von Events und Verbesserungen  am Standort)",
+      "Planung der JSConf 2018 innerhalb eines Teams"
+    ]
+  },
+  {
+    "EMPHASIZE_TITLE": "Jobleads GmbH, ",
+    "TITLE": "Hamburg — Frontend Developer",
+    "SMALL": "Januar 2016 - Juni 2016",
+    "LIST": [
+      "Erstellung von eigenständigen Landingpages (HTML/CSS/SASS/Bootstrap)",
+      "Erstellung von einfachen jQuery-Plugins",
+      "Quality-Assurance",
+      "HTML-Newsletter"
+    ]
+  },
+  {
+    "EMPHASIZE_TITLE": "n@work Internet und Informationssysteme GmbH, ",
+    "TITLE": "Hamburg — Projektmanager und Webdesigner",
+    "SMALL": "Juni 2012 - Dezember 2015",
+    "LIST": [
+      "Betreuung und Beratung von Bestandskunden und Neukunden<br>(Kundenbeispiele: Hamburg Tourismus GmbH, IWAN BUDNIKOWSKY GmbH & Co. KG, Horst F. G. Angermann GmbH, IBS-Schreiber GmbH, Joachim-Herz Stiftung, Deutsche Muskelschwund-Hilfe e.V.)",
+      "Projektmanagement",
+      "Aushilfe im Frontend (HTML/CSS/SASS/Twitter Bootstrap)",
+      "Erstellung von Designs (letzte Beispiele: mobile Webseite der Hamburg Tourismus GmbH – m.hamburg-tourism.de, Deutsche Muskelschwundhilfe – muskelschwund.de, Grips gewinnt – grips-gewinnt.de, Heimspiel für Bildung – heimspiel.org)",
+      "Rechnungsstellung",
+      "Erstellung von Konzepten und KVAs",
+      "Durchführung von Kundenschulungen für das CMS TYPO3",
+      "Organisation und Durchführung von teambildenden Maßnahmen",
+      "Ausbildertätigkeit"
+    ]
+  }
+]

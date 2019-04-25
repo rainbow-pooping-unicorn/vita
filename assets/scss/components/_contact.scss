@@ -1,0 +1,18 @@
+.contact {
+  font-style: normal;
+
+  ~ .contact {
+    margin-top: 0.5rem;
+  }
+
+  &__detail {
+    a {
+      color: $action-color;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

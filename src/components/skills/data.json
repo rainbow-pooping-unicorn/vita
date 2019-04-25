@@ -1,0 +1,49 @@
+[
+  {
+    "NAME": "Hard Skills",
+    "CV_CONTENTS": [
+      {
+        "LIST": [
+          "<strong>HTML</strong> sehr gute Kenntnisse",
+          "<strong>CSS/SASS</strong> sehr gute Kenntnisse",
+          "<strong>Barrierefreie Umsetzung</strong> gute Kenntnisse",
+          "<strong>Javascript</strong> grundlegende Kenntnisse",
+          "<strong>Vue.js</strong> grundlegende Kenntnisse",
+          "<strong>Grunt</strong> gute Kenntnisse",
+          "<strong>Gulp</strong> grundlegende Kenntnisse",
+          "<strong>Webpack</strong> grundlegende Kenntnisse",
+          "<strong>Technische Architektur</strong> gutes Verständnis",
+          "<strong>GIT/Konsole</strong> grundlegende Kenntnisse"
+        ]
+      }
+    ]
+  },
+  {
+    "NAME": "Social Skills",
+    "CV_CONTENTS": [
+      {
+        "LIST": [
+          "Teamfähigkeit",
+          "Hilfsbereitschaft",
+          "empathischer Umgang mit Kunden und Mitarbeitern",
+          "Kundenorientierte Arbeitsweise",
+          "selbstständiges Organisationstalent und Arbeitsverhalten",
+          "wirtschaftliche Arbeitsweise",
+          "technisches Interesse und Verständnis",
+          "Führungsqualitäten in Projektteams "
+        ]
+      }
+    ]
+  },
+  {
+    "NAME": "Languages",
+    "CV_CONTENTS": [
+      {
+        "LIST": [
+          "Englisch",
+          "Französisch"
+        ]
+      }
+    ]
+  }
+]

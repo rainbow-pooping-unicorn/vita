@@ -1,0 +1,31 @@
+[
+  {
+    "NAME": "Sports",
+    "CV_CONTENTS": [
+      {
+        "LIST": [
+          "<strong>Snowboarden</strong> (vor ca. 3 Jahren hab ich mich das erste Mal auf ein Snowboard gewagt und mich prompt darin und in die Berge verliebt. Dies war auch einer der Hauptgründe für den Umzug nach München vor zwei Jahren.)",
+          "<strong>Wandern</strong> (Das Wandern habe ich auch neu für mich entdeckt und nächstes Jahr steht der erste richtige Wanderurlaub an.)",
+          "<strong>Schwimmen</strong> (Ich schwimme für mein Leben gern. Leider ist meine Schwimmtechnik eher der typische Durchschnitt. Aus diesem Grund habe ich mit einem Schwimm-Aufbaukurs begonnen und darauf fiebere ich gerade jede Woche hin.)"
+        ]
+      }
+    ]
+  },
+  {
+    "NAME": "Personal Interests",
+    "CV_CONTENTS": [
+      {
+        "LIST": [
+          "<strong>Do-it-Yourself-Projekte</strong> (Stricken, Nähen, alte Möbel auffrischen)",
+          "<strong>Lesen</strong> (Eigentlich lese ich meist im Urlaub)",
+          "<strong>Serien</strong> (Zur Zeit schaue ich wieder 'Family Guy'. Die letzte neue Serie, die ich gesehen habe: The Sinner, Staffel 2)",
+          "<strong>Reisen</strong> (Meine nächsten Reisen die anstehen: Kreuzfahrt in Asien und eine Wanderung in Finnland)",
+          "<strong>Kochen</strong> (Ich koche und esse vor allen Dingen gern - zudem esse ich gern scharf.)",
+          "<strong>Freunde</strong> (Ich bin gern draußen, treffe gern Freunde und mag den persönlichen Austausch)",
+          "<strong>Tiere</strong> (Zuhause bei mir wohnen auch meine zwei Katzen 'Kisha' und 'Nala'. Darüberhinaus mag ich aber eigentlich alle Tiere.)",
+          "<strong>Geocaching</strong> (Im letzen Jahr habe ich das Geocaching für mich entdeckt. Man entdeckt die Welt nochmal mit neuen Augen und gelangt an tolle Orte, die man sonst nicht besucht hätte.)"
+        ]
+      }
+    ]
+  }
+]
