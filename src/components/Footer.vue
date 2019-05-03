@@ -2,7 +2,7 @@
   <footer class="footer">
     <address class="contact" v-for="contact in contactPossibilities">
       <div class="contact__item">
-        <div class="contact__detail" v-html="contact.detail"></div>
+<!--        <div class="contact__detail" v-html="contact.detail"></div>-->
       </div>
     </address>
   </footer>
