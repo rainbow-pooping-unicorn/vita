@@ -7,13 +7,15 @@
           "<strong>HTML</strong> sehr gute Kenntnisse",
           "<strong>CSS/SASS</strong> sehr gute Kenntnisse",
           "<strong>Barrierefreie Umsetzung</strong> gute Kenntnisse",
-          "<strong>Javascript</strong> grundlegende Kenntnisse",
-          "<strong>Vue.js</strong> grundlegende Kenntnisse",
+          "<strong>Javascript</strong> gute Kenntnisse",
+          "<strong>Vue.js</strong> gute Kenntnisse",
+          "<strong>React.js</strong> grundlegende Kenntnisse",
+          "<strong>Typescript</strong> grundlegende Kenntnisse",
           "<strong>Grunt</strong> gute Kenntnisse",
           "<strong>Gulp</strong> grundlegende Kenntnisse",
           "<strong>Webpack</strong> grundlegende Kenntnisse",
           "<strong>Technische Architektur</strong> gutes Verständnis",
-          "<strong>GIT/Konsole</strong> grundlegende Kenntnisse"
+          "<strong>GIT/Konsole</strong> gute Kenntnisse"
         ]
       }
     ]
